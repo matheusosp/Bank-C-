@@ -1,4 +1,5 @@
 using Bank.Enum;
+using System;
 
 namespace Bank.Classes
 {
@@ -15,5 +16,27 @@ namespace Bank.Classes
             this.credito = credito;
             this.nome = nome;
         }
+        public bool Sacar(double valorSaque){
+            if(this.saldo - valorSaque < (this.credito*-1)){
+                Console.WriteLine("Saldo Insuficiente!");
+                return false;
+            }
+            this.saldo -= valorSaque;
+            Console.WriteLine("Saldo atual da conta de {0} é {1}",this.nome, this.saldo);
+            return true;
+        }
+
+        public void Depositar(double valorDeposito){
+            this.saldo += valorDeposito;
+            Console.WriteLine("Saldo atual da conta de {0} é {1}", this.nome, this.saldo);
+        }
+
+        public void Transferir(double valorTransferencia, Conta contaDestino){
+            if(this.Sacar(valorTransferencia)){
+                contaDestino.Depositar(valorTransferencia);
+            }
+        }
+
+         
     }
 }
