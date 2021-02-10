@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ekAJdLZ9ivBC/i48fzSTE7HPulArZMeFk+zkmcRzAraiiVUuSwvJmIznuMiq8b73sl77/JyHh7CzQtCY8FweQw==",
+  "dgSpecHash": "VhTQLZNXC+kFWFqBBvx0f/Mjqt4gnk6bDApm9DbAcTtAu7BGi2tV1hRDuhUYsgM9/egyzkuKHQ6cAUP38+dbpQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\transferências bancárias com .NET\\Bank\\Bank.csproj",
+  "projectFilePath": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\Bank\\Bank.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

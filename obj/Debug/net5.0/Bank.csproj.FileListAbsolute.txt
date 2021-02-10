@@ -1,0 +1,16 @@
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\Bank.exe
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\Bank.deps.json
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\Bank.runtimeconfig.json
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\Bank.runtimeconfig.dev.json
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\Bank.dll
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\ref\Bank.dll
+C:\Users\Mathe\Desktop\github\dotnet\Bank\bin\Debug\net5.0\Bank.pdb
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.csprojAssemblyReference.cache
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.AssemblyInfo.cs
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.dll
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\ref\Bank.dll
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.pdb
+C:\Users\Mathe\Desktop\github\dotnet\Bank\obj\Debug\net5.0\Bank.genruntimeconfig.cache

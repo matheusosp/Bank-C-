@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\transferências bancárias com .NET\\Bank\\Bank.csproj",
+      "projectUniqueName": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\Bank\\Bank.csproj",
       "projectName": "Bank",
-      "projectPath": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\transferências bancárias com .NET\\Bank\\Bank.csproj",
+      "projectPath": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\Bank\\Bank.csproj",
       "packagesPath": "C:\\Users\\Mathe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\transferências bancárias com .NET\\Bank\\obj\\",
+      "outputPath": "C:\\Users\\Mathe\\Desktop\\github\\dotnet\\Bank\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mathe\\AppData\\Roaming\\NuGet\\NuGet.Config",
