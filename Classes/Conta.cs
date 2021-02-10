@@ -37,6 +37,13 @@ namespace Bank.Classes
             }
         }
 
-         
+        public override string ToString(){
+            string retorno = "";
+            retorno += "TipoConta " + this.tipoConta + " | ";
+            retorno += "Nome " + this.nome + " | ";
+            retorno += "Saldo " + this.saldo + " | ";
+            retorno += "Crédito " + this.credito;
+			return retorno;
+		}
     }
 }
